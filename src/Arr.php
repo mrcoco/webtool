@@ -1,13 +1,13 @@
 <?php
-/**
- * Part of the Fuel framework.
+ /**
+ * fork from Fuel framework.
  *
- * @package    Fuel
- * @version    1.7
- * @author     Fuel Development Team
+ * @package    webtool
+ * @version    0.1
+ * @author     mrcoco
  * @license    MIT License
- * @copyright  2010 - 2015 Fuel Development Team
- * @link       http://fuelphp.com
+ * @copyright  2010 - 2015 Cempaka Web
+ * @link       http://cempakaweb.com
  */
 namespace Cempaka\Webtool;
 
@@ -15,8 +15,8 @@ namespace Cempaka\Webtool;
  * The Arr class provides a few nice functions for making
  * dealing with arrays easier
  *
- * @package     Fuel
- * @subpackage  Core
+ * @package     Webtool
+ * @subpackage  Arr
  */
 class Arr
 {
