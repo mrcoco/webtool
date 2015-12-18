@@ -1,0 +1,18 @@
+{
+	"name": "mrcoco/webtool",
+    "description": "library colection",
+    "license": "MIT",
+    "type": "project",
+    "keywords": ["webtool", "array", "php"],
+    "minimum-stability": "dev",
+    "authors": [
+        {
+            "name": "mrcoco",
+            "email": "spydersonics@gmail.com",
+            "homepage": "http://cempakaweb.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.5.0",
+    },
+}
